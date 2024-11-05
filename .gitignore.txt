@@ -1,0 +1,11 @@
+# Unity specific folders to ignore
+[Ll]ibrary/
+[Oo]bj/
+[Tt]emp/
+[Bb]uild/
+[Ll]ogs/
+[Uu]serSettings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
